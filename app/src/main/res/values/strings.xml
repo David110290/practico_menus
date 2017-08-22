@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="mnu_buscar">buscar</string>
+    <string name="mnu_tools">Herramientas</string>
+    <string name="mnu_cerar">Cerrar</string>
+    <string name="mnu_eliminar">Eliminar</string>
+    <string name="mnu_Compartir">Compatir</string>
+    <string name="mnu_Descargar">Descargar</string>
+    <string name="mnu_Ver">Ver Imagen</string>
+    <string name="mnu_Detalles">Ver Detalles</string>
+</resources>

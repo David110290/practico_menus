@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnu_Buscar"
+        android:title="@string/mnu_buscar"
+        android:orderInCategory="100"
+        android:icon="@mipmap/buscar"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/mnu_Tools"
+        android:title="@string/mnu_tools"
+        android:orderInCategory="101"
+        />
+    <item android:id="@+id/mnu_Cerrar"
+        android:title="@string/mnu_cerar"
+        android:orderInCategory="102"
+        />
+</menu>

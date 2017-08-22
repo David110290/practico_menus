@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnu_Eliminar"
+        android:title="@string/mnu_eliminar"
+        />
+    <item android:id="@+id/mnu_Compartir"
+        android:title="@string/mnu_Compartir"
+        android:orderInCategory="51"
+        />
+    <item android:id="@+id/mnu_Descargar"
+        android:title="@string/mnu_Descargar"
+        android:orderInCategory="52"
+        />
+</menu>
